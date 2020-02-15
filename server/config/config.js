@@ -12,6 +12,7 @@ process.env.PORT = process.env.PORT || 3000;
 process.env.NODE_ENV = process.env.NODE_ENV || 'dev';
 
 // =========================
+<<<<<<< HEAD
 //  VENCIMIENTO DEL TOKEN
 // =========================
 
@@ -25,6 +26,8 @@ process.env.CADUCIDAD_TOKEN = 60 * 60 * 24 * 30;
 process.env.SEED = process.env.SEED || 'puerta-azul';
 
 // =========================
+=======
+>>>>>>> ab7cac84b42c2371578397717263fede13adc064
 //         BASE DE DATOS
 // =========================
 
